@@ -51,11 +51,11 @@ export default function LandingPage() {
       description="Generate professional on-brand assets in seconds. The power of AI, completely free."
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-watching-business-conference-computer-screen-looking-statistics_482257-125563.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-watching-business-conference-computer-screen-looking-statistics_482257-125563.jpg?_wi=1",
           imageAlt: "ai technology neural network",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/professional-person-engaging-with-ai-chatbot-computer-screen_482257-126263.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/professional-person-engaging-with-ai-chatbot-computer-screen_482257-126263.jpg?_wi=1",
           imageAlt: "digital art interface holographic",
         },
         {
@@ -111,7 +111,7 @@ export default function LandingPage() {
           description: "Maintain consistency across assets.",
           bentoComponent: "reveal-icon",
           icon: Shield,
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-watching-business-conference-computer-screen-looking-statistics_482257-125563.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-watching-business-conference-computer-screen-looking-statistics_482257-125563.jpg?_wi=2",
           imageAlt: "ai speed symbol",
         },
         {
@@ -119,7 +119,7 @@ export default function LandingPage() {
           description: "Export at any resolution.",
           bentoComponent: "reveal-icon",
           icon: Maximize,
-          imageSrc: "http://img.b2bpic.net/free-photo/professional-person-engaging-with-ai-chatbot-computer-screen_482257-126263.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/professional-person-engaging-with-ai-chatbot-computer-screen_482257-126263.jpg?_wi=2",
           imageAlt: "ai speed symbol",
         },
       ]}
